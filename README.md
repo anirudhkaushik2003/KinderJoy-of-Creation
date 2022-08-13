@@ -18,3 +18,4 @@ A little big project
  16. selling chatbots and apis 
  17. hiring someone to draw characters for my game
  18. making a website that sells bots that i made
+ 19. hadoop mapreduce queries for wikipedia dump
